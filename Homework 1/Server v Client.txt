@@ -1,0 +1,3 @@
+I feel as though the idea that one side of the server equation is more important than the other might be a trick question. Without the other, does either serve a purpose? Both are required to make stuff function. If I had to pick one, I suppose it would server-side. 
+
+The most important aspect of their interaction depends on the interaction that is occurring. If it is stock trade than the speed and security are incredibly important. If the interaction is storing cherished photos of your dog with your family than being able to consistently access them and share them with others is way more important than how fast or secure the exchange happens.
